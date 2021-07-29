@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Firebase FIRESTORE
 
 [FIRESTORE](https://firebase.google.com/products/firestore?gclid=CjwKCAjwo4mIBhBsEiwAKgzXOOW2taYqzhDBHp6jnVuDvSDsWH2gew3jO4yNXDRLK7l0yU0_Wky0ZxoCMKoQAvD_BwE&gclsrc=aw.ds)
+
+
+![Screen Shot 2021-07-29 at 12 24 09](https://user-images.githubusercontent.com/22507520/127529307-0fe34b70-53db-4408-9dfd-300a0cb66cae.png)
+
